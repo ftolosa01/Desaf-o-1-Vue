@@ -1,0 +1,22 @@
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#btn{
+    justify-content: center;
+    background-color: cadetblue;
+    border-radius: 15px;
+    margin-left: 40%;
+    
+}
